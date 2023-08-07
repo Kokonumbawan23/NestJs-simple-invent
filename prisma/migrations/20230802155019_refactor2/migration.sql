@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE "Barang" ALTER COLUMN "tipeId" DROP DEFAULT;
